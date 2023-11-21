@@ -1,5 +1,7 @@
 ## About Me
 
+[![fr](https://img.shields.io/badge/lang-fr-blue)](README.fr.md)
+
 I'm Hamza Eshoul from Morroco, and I’m a web developer specializing in building modern user-centric web applications utilizing the power of the MERN technology stack.
 
 I learned web development with the [Odin Project](https://www.theodinproject.com/), a curriculum specialized in teaching the skills to build full stack modern web applications.
