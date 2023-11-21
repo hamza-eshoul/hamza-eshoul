@@ -10,7 +10,7 @@ J'ai appris le développement Web à travers the [Odin Project](https://www.theo
 
 Vous pouvez trouver plus d'informations sur moi et mes projets à travers mon site porfolio : https://hamzaeshoul.com
 
-## Principales Compétences & Technologies.
+## Principales Compétences & Technologies
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
