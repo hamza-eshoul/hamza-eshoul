@@ -2,7 +2,7 @@
 
 [![en](https://img.shields.io/badge/lang-en-red)](README.md)
 
-Je suis Hamza Eshoul, développer web originaire du Maroc et spécialisé dans la création de sites et d'applications web modernes centrées sur l'utilisateur en employant la puissance des technologies associées à la MERN stack.
+Je suis Hamza Eshoul, développeur web originaire du Maroc et spécialisé dans la création de sites et d'applications web modernes centrées sur l'utilisateur en employant la puissance des technologies associées à la MERN stack.
 
 J'ai appris le développement Web à travers the [Odin Project](https://www.theodinproject.com/), un programme spécialisé dans l'enseignement des compétences nécessaires pour créer des applications web full stack modernes.
 
